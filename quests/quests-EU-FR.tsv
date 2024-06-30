@@ -1,12 +1,3 @@
-101001	[Important] Vers Baldera
-102001	[Important] Source d'Arun
-103001	[Important] Cité oubliée de Balderon
-104001	[Important] Position de Shade
-105001	[Important] 2e invasion argonne
-120001	[Important] Où est Vella ?
-121001	[Important] Les souvenirs d'Hasmina
-122001	[Important] Le Trône glacial
-123001	[Important] Commémoration
 201001	Du rififi dans la forêt
 202001	Fées dans le pétrin
 203001	Sombre faim
@@ -42,6 +33,7 @@
 247001	Surplus de côtes
 248001	Viande conservée
 249001	Vers le sud
+250001	L'arbre que vous voyez derrière moi est l'Arbre des mondes.
 250001	L'arbre que vous voyez derrière moi est l'Arbre des mondes.
 251001	Centaures, ni reproches
 252001	Une mesure de vengeance
@@ -127,7 +119,6 @@
 441001	Fragile !
 443001	Essence de Bahaar
 444001	Pierre incendiaire magique
-469018	Vous avez décidé d'emprunter le passage souterrain avec Syona.
 470001	(Guilde) Ordres d'élimination : intrus
 471001	(Guilde) Ordres d'élimination : rejetons à crocs et groknars
 472001	(Guilde) Ordres d'élimination : Alliance shuriane
@@ -435,6 +426,9 @@
 1386001	Alerte à la bombe !
 1389001	Vider la boîte à malice
 1390001	Livraison spéciale
+1391001	[Groupe Recommandé] Les âmes corrompus n'ont pas de répit
+1392001	Paws in Mid-Battle
+1394001	Making Friends or Enemies?
 1504001	Invasion de manoir
 1505001	Crédit et discrédit
 1506001	Encercler les chariots
@@ -512,7 +506,6 @@
 1737001	De l'art de garder un secret
 1770001	(Guilde) Le ciel nous tombe sur la tête
 1771001	(Guilde) Chasse au pourceau
-1811901	Diver
 1821001	Soulèvement de la tribu du Désert de Feu
 1822001	Chercher des reliques
 1823001	Un coup du sort
@@ -786,8 +779,8 @@
 3043001	De la poussière sur les ailes
 3044001	Le second plus grand secret d'Oshar
 3045001	L'omelette de l'infini
-3046001	Evènements en cours
-3047001	Je vais faire en sorte qu'elle puisse briller
+3046001	Current Events
+3047001	I'm Gonna Let It Shine
 3048001	Le plus grand secret d'Oshar
 3049001	Briser la concurrence
 3050001	Chroniques du passé
@@ -1101,6 +1094,8 @@
 4137001	Fan de gastronomie ?
 4138001	La fleur rouge du courage
 4139001	Encore et toujours
+4150001	[Donjon : 457] Aslan et les révolutionnaires du drapeau rouge
+4151001	[Donjon : 496] Abîme des Abysses
 4170001	(Guilde) Ordres d'élimination : pillards et combattants de la Griffe noire
 4171001	(Guilde) Ordres d'élimination : basilics féroces
 4172001	(Guilde) Ordres d'élimination : Griffes noires
@@ -1202,8 +1197,6 @@
 4733001	Repérez le Camp d'Éclaireurs
 4734001	Les mains dans la terre
 4735001	Fée en furie
-4771001	(Guilde) Ordre de conquête de la Forêt de la Gelée blanche
-4772001	(Guilde) Ordre de conquête de la Forêt changeante
 4773001	(Guilde) Ordre de conquête de Hurlefléau
 4774001	(Guilde) Ordre de conquête de la Forêt rugissante
 4781001	Ordre de conquête de la Forêt de la Gelée blanche
@@ -1328,8 +1321,6 @@
 5125001	En cas d'invasion argone, briser la glace
 5126001	Secousse et agitation
 5127001	Le chasseur tenace
-5128001	J'ai cru voir un gros minet
-5129001	Quelque chose m'asticote
 5131001	Crocs en gros
 5132001	Repousser les limites
 5133001	La famille d'abord
@@ -1473,8 +1464,6 @@
 5634001	Brutes épaisses
 5635001	Profanation des tombes de sang
 5636001	Vous et quelle armée
-5637001	Plus jamais
-5670001	(Guilde) Ordres d'élimination : bloqueurs
 5671001	(Guilde) Ordres d'élimination : rebelles mekonaris
 5672001	(Guilde) Ordres d'élimination : gardes de l'autel
 5673001	(Guilde) Ordres d'élimination : Raethyark
@@ -1510,23 +1499,53 @@
 5783001	Ordres d'élimination : Atel Akaad
 5784001	Ordres d'élimination : sikandaris
 5785001	Ordres d'élimination : hommes de main de Killian
-5801001	[Important] Étude de la résonance de donjon
+5801001	Un problème très cornu
+5802001	Réponse Ir-ration-nel
+5803001	Harmonie Changeante
+5804001	Retour aux cendres
+5805001	Passerelle vers l'aventure
+5806001	Mauvais arbre! Mauvais!
+5807001	Un jardin très rocailleux
+5808001	Ravitaillement d'{@RawItem:206827}
+5809001	À la recherche d'un ami perdu
+5810001	Tour Désuette
+5811001	[Important] Pacte de Sang Achevé
+5812001	Apiculteur en roue libre
+5813001	Partager la nouvelle
+5814001	Vous cherchez un Jardinier?
+5815001	Aller de l'Avant
+5816001	Éliminer les Devas Sanglants
+5817001	Escorter les Nagas Perdus
+5818001	Cartographie Éparpillée
+5819001	[Champ de Bataille] Apprendre les bases
+5820001	[Champ de Bataille] Les Cornes du Triomphe
+5821001	[Champ de Bataille] Les Flammes de la Victoire
+5822001	[Champ de Bataille] Sang et Sable
+5823001	[Champ de Bataille] Route vers le Triomphe
+5850001	Table Rase
+5851001	Brigade de Renégat
+5852001	Destins Connectés
+5853001	Qu'un avec la Forêt
+5854001	Conspiration de l'Alliance
+5855001	Liens Infernaux
+5856001	Un goût de l'infernal
+5857001	La FNAB ne va pas apprécier
+5860001	Boules de neige pour la paix
+5861001	[Important] Phénomène bizarre à Arborea
+5862001	[Important] Le Pouvoir du Voile
+5862001	[Important] The Power of The Veil
 6000001	[Important] Les villageois souffrants
 6001001	[Important] L'arme secrète
 6002001	[Important] Abattre l'Île céleste
 6050001	L'ingrédient manquant
 6099001	Un conte enchanteur
-6140001	[Donjon, 510] Temple de Bahaar
+6140001	[Donjon : 512] Temple de Bahaar
 6301001	Téléportation imminente
 6302001	Académie de magie
 6304001	Pour se battre en duel
 6305001	Rejoindre les rangs
 6306001	Noviciat guerrier
 6307001	Pour se battre en duel
-6310001	[Changement de classe] Compétence cachée du Pourfendeur
-6311001	[Changement de classe] Étude de la compétence du Pourfendeur
-6312001	[Changement de classe] Compétence cachée de l'Archer
-6313001	[Changement de classe] Étude de la compétence de l'Archer
 6321001	Retour au pays
 6322001	Trafic de turbans tuwangi
 6323001	On suit le chef
@@ -1567,6 +1586,8 @@
 6359001	Nouveau soutien
 6360001	Familier
 6361001	Veridian dynamique
+6364001	[Donjon ; 453] Séisme mystérieux
+6365001	[Donjon : 453] Lakan, le dieu avide
 6367001	Autorisation d'achat de provisions intermédiaires
 6368001	Autorisation d'achat de provisions supérieures
 6369001	Gardien céleste
@@ -1601,9 +1622,6 @@
 7297001	(Bataille) Les feux de l'honneur
 7298001	(Bataille) Les feux de la victoire
 7299001	Semer les graines du sang
-8401001	[Important] Phénomène étrange de Granarkus
-8402001	[Important] Le totem de Manahan
-8403001	[Important] Résurrection de Shandra Manaya
 8421001	Des porcs
 8422001	Mangez épicé
 8491001	(Bataille) Les feux de la conquête
@@ -1754,6 +1772,8 @@
 17214001	La petite évasion
 17216001	Nouvelle menace
 17217001	Un soutien indéfectible
+17221001	[Donjon] Station de recherche de Syruk
+17222001	[Donjon : 457] Hangar du RK-9
 18101001	Porteur de tristes nouvelles
 18102001	Comment ça marche ?
 18103001	Les marches de la connaissance
@@ -1823,7 +1843,7 @@
 18375001	[Évènement] Mission de protection d'Arborea 4
 18376001	[Évènement] Mission de protection d'Arborea 5
 18377001	[Champ de bataille] La voie permettant de prouver sa force
-18378001	[Champ de bataille] Rejoindre la Gorge de Venteguerre
+18378001	[Champ de bataille] Cap sur le Champ de bataille souterrain
 18380001	[Évènement] La puissance de l'éveil II
 18381001	Fusion givrée élémentaire
 18382001	Fusion ardente élémentaire
@@ -1838,6 +1858,7 @@
 18391001	[Évènement] Mission : niveau d'équipement 437
 18392001	[Évènement] Mission : niveau d'équipement 438
 18393001	[Évènement] Mission : niveau d'équipement 439
+18399001	[Easy] Hunter's Event Quest
 19101001	Le jeu des retrouvailles
 19102001	Composants décomposés
 19103001	Un lourd fardeau
@@ -1877,6 +1898,7 @@
 42571001	(Guilde) Ordres d'élimination : gardiens du {@Rgn:9025001}
 42581001	Ordres d'élimination : Gardiens du {@Rgn:9025001}
 45301001	Trésor du géant
+46901001	Souvenirs de la Forteresse de Raqnan
 47121001	Esprit évanoui
 47122001	Corps sans âme
 47123001	Profonde rancune
@@ -1983,7 +2005,6 @@
 50546001	[Important] La bienveillance de la garde principale
 50547001	[Important] La bienveillance de la garde de la porte sud
 50548001	[Important] La réputation du préfet
-50549001	[Important] Les Barakas complaisants
 50601001	[Important] Rêve de Velik
 50602001	[Important] Les méfaits des révolutionnaires
 50603001	[Important] Crash ou atterrissage
@@ -2046,49 +2067,6 @@
 55052001	Percer le Front d'Arborea 5
 55053001	Percer le Front d'Arborea 6
 55054001	Percer le Front d'Arborea 7
-55085001	C'est en forgeant qu'on devient forgeron 1
-55086001	C'est en forgeant qu'on devient forgeron 2
-55087001	C'est en forgeant qu'on devient forgeron 3
-55088001	C'est en forgeant qu'on devient forgeron 4
-55089001	C'est en forgeant qu'on devient forgeron 5
-55090001	C'est en forgeant qu'on devient forgeron 6
-55091001	C'est en forgeant qu'on devient forgeron 7
-55092001	C'est en forgeant qu'on devient forgeron 8
-55093001	C'est en forgeant qu'on devient forgeron 9
-55094001	C'est en forgeant qu'on devient forgeron 10
-55095001	C'est en forgeant qu'on devient forgeron 11
-55096001	C'est en forgeant qu'on devient forgeron 12
-55097001	C'est en forgeant qu'on devient forgeron 13
-55098001	C'est en forgeant qu'on devient forgeron 14
-55099001	C'est en forgeant qu'on devient forgeron 15
-55101001	C'est en forgeant qu'on devient forgeron 16
-55102001	C'est en forgeant qu'on devient forgeron 17
-55103001	C'est en forgeant qu'on devient forgeron 18
-55104001	C'est en forgeant qu'on devient forgeron 19
-55105001	C'est en forgeant qu'on devient forgeron 20
-55106001	C'est en forgeant qu'on devient forgeron 21
-55107001	C'est en forgeant qu'on devient forgeron 22
-55108001	C'est en forgeant qu'on devient forgeron 23
-55109001	C'est en forgeant qu'on devient forgeron 24
-55110001	C'est en forgeant qu'on devient forgeron 25
-55111001	C'est en forgeant qu'on devient forgeron 26
-55112001	C'est en forgeant qu'on devient forgeron 27
-55113001	C'est en forgeant qu'on devient forgeron 28
-55114001	C'est en forgeant qu'on devient forgeron 29
-55147001	De bout en bout 1
-55148001	De bout en bout 2
-55149001	De bout en bout 3
-55150001	De bout en bout 4
-55151001	De bout en bout 5
-55152001	De bout en bout 6
-55153001	De bout en bout 7
-55154001	De bout en bout 8
-55155001	De bout en bout 9
-55156001	De bout en bout 10
-55157001	De bout en bout 11
-55158001	De bout en bout 12
-55159001	De bout en bout 13
-55160001	De bout en bout 14
 59901001	Aider en récoltant
 59902001	Sécher les larmes d'enfant
 59903001	Protéger l'Arbre du chagrin
@@ -2099,6 +2077,11 @@
 59910001	Pour le bien des enfants
 59911001	Pour la Fédération.
 59912001	Pour un service valeureux
+60028001	[A-Tier] Grotto of Lost Souls (Normal)
+60029001	[S-Tier] Grotto of Lost Souls (Hard)
+60030001	[Grade A] Site d'exécution
+60031001	[Grade S] Site d'exécution sanglant
+60032001	[Grade S] Temple Givré de Baharr Glacial
 60101001	Continuer à frapper dessus jusqu'à ce que ça fonctionne
 60102001	Reboucher le puits
 60103001	Le mugisseur canin
@@ -2234,14 +2217,18 @@
 61912001	[Pêche] Un goût de reviens-y
 61913001	[Pêche] Festin de pêcheur
 61914001	[Pêche] Pieuvres et fées
-62901001	Nettoyage de l'Île de l'Aube (faible)
-62902001	Nettoyage de l'Île de l'Aube (moyen)
-62903001	Nettoyage de l'Île de l'Aube (élevé)
-62904001	Nettoyage de l'Île de l'Aube (introduction)
-62905001	Rétablir l'Île de l'aube (introduction)
-62906001	Rétablir l'Île de l'aube (faible)
-62907001	Rétablir l'Île de l'aube (intermédiaire)
-62908001	Rétablir l'Île de l'aube (élevé)
+63210001	[Laurier d'Or] Gorge de Venteguerre
+63211001	[Laurier d'Or] Gorge de Venteguerre
+63212001	[Laurier d'Or] Gorge de Venteguerre
+63310001	[Laurier d'Argent] Gorge de Venteguerre
+63311001	[Laurier d'Argent] Gorge de Venteguerre
+63312001	[Laurier d'Argent] Gorge de Venteguerre
+63410001	[Laurier de Bronze] Gorge de Venteguerre
+63411001	[Laurier de Bronze] Gorge de Venteguerre
+63412001	[Laurier de Bronze] Gorge de Venteguerre
+63510001	[Champs de Bataille] Gorge de Venteguerre
+63511001	[Champs de Bataille] Gorge de Venteguerre
+63512001	[Champs de Bataille] Gorge de Venteguerre
 70101001	[EVENT] Responsabilités divines
 70102001	[EVENT] Services religieux
 70103001	[EVENT] Entretenir la flamme
@@ -2350,6 +2337,11 @@
 200021001	Recherches II
 200022001	Recherches III
 200023001	[Journ.] Conquête du Domaine de Rogash
+200024001	Research on Exodor
+200025001	Draakons? Not on my watch!
+200026001	[Important] Way to Exodor!
+200030001	[Important] Sang pour Sang
+200031001	[Important] Dragons On The Rise
 200101001	[Important] Un assistant inattendu
 200102001	[Important] Demande urgente
 200103001	[Important] Demande des Riverans
@@ -2375,13 +2367,8 @@
 200323001	Manœuvre interne II
 200324001	Manœuvre interne III
 200325001	[Journ.] Conquête de la Forteresse de Berak
-200326001	[Quête journalière] Éliminer des dragons sur l'île extérieure d'Exodor
-200328001	[Quête journalière] Collecte sur l'Îlot de pêche d'Exodor
-200329001	[Quête journalière] Éliminer des boss moyens sur l'île extérieure d'Exodor
-210501001	[Important, 464] Sentier dérobé
-210502001	[Important, 464] Commandant d'Arkarp
-210601001	[Important, 464] Sur les traces de l'héritage de Vergos
-210602001	[Important, 464] Éliminez Rukmia
+210501001	[Important] Sentier dérobé
+210502001	[Important] Commandant d'Arkarp
 250001001	Un autre monde
 250011001	Nouvelle menace
 250012001	Créature dangereuse
@@ -2395,104 +2382,145 @@
 300601001	Mission d'évènement de croissance V
 300701001	Mission d'évènement de croissance VI
 300901001	Mission d'évènement de croissance VII
-302301001	[Donjon, 498] L'appel de Revenj
-302302001	[Donjon, 498] Ennemi dissimulé
+302301001	[Donjon : 463] L'appel de Revenj
+302302001	[Donjon (463)] Ennemi dissimulé
 302401001	Assaut sur la Couveuse d'Arkarp I
 302402001	Assaut sur la Couveuse d'Arkarp II
 302501001	Assaut sur la Couveuse d'Arkarp III
 302502001	Assaut sur la Couveuse d'Arkarp IV
-302601001	[Donjon, 498] La conspiration des argons
+302601001	[Donjon : 473] La conspiration des argons
+302701001	[Donjon : 473] Loup désertique
+303101001	[Champ JcJ] Conquête de la Zone nucléique
 303501001	Appel de Velik
-303502001	Cadeau de Velik
-303503001	Bénédiction de Velik
-310101001	[Donjon, 464] Éclosion des papillons
-310102001	[Donjon, 464] Nid de Parquina (facile)
-310701001	[Important] Médisant
-310702001	[Important] Site de test de Desolarus
-320501001	[Important, 504] Rogash le savant fou
-320601001	[Donjon, 496] Site d'exécution (groupe)
-700006001	Conquête de l'Abcès
+303502001	Appel de Velik
+303503001	Appel de Velik
+310101001	[Donjon : 463] Éclosion des papillons
+310102001	[Donjon (463)] : Nid de Parquina (facile)
 700008001	Infiltration du Laboratoire de Verno
 700009001	Infiltration du Laboratoire de Verno (difficile)
 700010001	À l'assaut du Temple sanglant de Dkurion
-700011001	Conquête du Temple sanglant de Dkurion (difficile)
+700012001	Conquérir l'Espace-temps de Valona (Normal)
 700013001	À l'assaut du Donjon des épreuves : Repaire d'Akasha !
 700014001	À l'assaut du Donjon des épreuves : Labyrinthe d'or !
 700019001	À l'assaut de la Forteresse de Lilitas (facile) !
-700027001	Conquérez la Porte souterraine de Velika
-700030001	À la reconquête du Sanctuaire effondré !
-700035001	Conquête de la Station de recherche de Syruk
+700022001	Terminer Croiseur céleste l'Opiniâtre (difficile)
+700023001	Infiltrez-vous dans les Ruines de Lachelitas (facile) !
+700024001	Conquête des Ruines de Lachelitas (difficile) !
+700026001	Conquérir la Prison Brisée !
+700027001	Protégez la Porte souterraine de Velika !
+700029001	À la reconquête du Sanctuaire de Velik !
+700030001	À la reconquête du Ruines du Sanctuaire (Difficile) !
+700035001	À l'assaut de la Station de recherche de Syruk !
+700036001	Complete the Thaumetal Refinery (Hard)
 700038001	Conquête de la Gorge vorace
+700040001	Conquête du Hangar du RK-9
 700041001	Conquête du Hangar du RK-9 (difficile)
+700042001	Conquête du Camp des révolutionnaires
 700044001	Conquête de l'Abîme d'Antaros
 700045001	Conquête de l'Abîme d'Antaros (difficile)
 700046001	Infiltration de la Forteresse de Ténébris
 700048001	Infiltration du Hall souterrain de Lian
-700049001	Conquérez le Hall souterrain de Lian (difficile)
+700049001	Infiltration du Hall souterrain de Lian (difficile)
 700050001	Dompter la rage de Bahaar
 700051001	Venez à bout du Donjon des épreuves : Forteresse de Lilitas
-700057001	Conquérez la Zone secrète de la Forteresse de Berak
-700060001	[Combattant immortel] Conquête de l'Arène du courroux
+700055001	Conquête du Nid de Parquina (facile)
+700056001	Conquête du Nid de Parquina (difficile)
+700057001	Conquête de la Forteresse de Berak
+700058001	Conquête du Repaire de Kelsaik
+700059001	Conquête du Repaire de Kelsaik (difficile)
+700060001	Défi de l'Arène du courroux (Immortalis)
 700061001	Conquête de la Résidence des commandants
+700062001	Conquête de la Résidence des commandants (difficile)
 700063001	Conquête de la Gorge de Kezzel
+700064001	Conquête de la Résidence du légat [sam/dim]
+700065001	Conquête du Hangar du RK-9 (difficile)
+700066001	[Aeternia] Arène du courroux
+700067001	[Immortalis] Arène du courroux
 700068001	Conquête du Croiseur céleste (difficile)
-700069001	Conquête du Rêve paralytique de Rukmia
-700071001	Donjon des épreuves : Rêve paralytique de Rukmia
-700074001	Conquête de la Forteresse maudite de Ténébris
-700075001	Attaquez le « Donjon des épreuves : Site d'exécution » !
-700076001	Donjon des épreuves : assaut sur la Forteresse de Ténébris
-700077001	Conquérez la Forteresse de Ténébris assaillie
-700078001	Conquérez le Laboratoire de fusion
-700079001	Conquérez le Laboratoire de fusion
-700080001	Donjon des épreuves, laboratoire de fusion
-700081001	Conquête du Site de test de Desolarus
-700082001	Camp d'entraînement secret niveau 1
-700083001	Camp d'entraînement secret niveau 2
-700084001	Camp d'entraînement secret niveau 3
-700085001	Camp d'entraînement secret niveau 4
-700086001	Camp d'entraînement secret niveau 5
-700087001	Conquête du Hall de Shandra Manaya (difficile)
-700088001	Conquête du Trône glacial du chaos
-700089001	Conquête du Trône glacial
-700106001	Conquête de l'Abcès
+700069001	Complete [Ace] Sky Cruiser Endeavor
+700070001	Complete [Ace] Ruinous Manor
+700083001	Fabrique Demokron complète (Difficile)
+700084001	Complete Manglemire
+700085001	Complete Channelworks
+700086001	Complete Kalivan's Dreadnaught
+700087001	Complete Kezzel's Gorge
+700088001	Conquérir le Temple sanglant de Dkurion (Difficile)
+700089001	Conquérir le Temple sanglant de Dkurion (Normal)
+700090001	Conquérir la Forteresse de Ténébris (Normal)
+700091001	Conquérir la Forteresse de Ténébris (Difficile)
+700092001	Conquérir le Sanctuaire de Velik (Normal)
+700093001	Conquérir le Sanctuaire de Velik (Difficile)
+700094001	Conquérir la Porte souterraine de Velika (Difficile)
+700095001	Conquérir l'Abîme d'Antaros (Normal)
+700096001	Conquérir le Camp des révolutionnaires (Normal)
+700097001	Conquérir le Camp des révolutionnaires (Difficile)
+700098001	Conquérir le Pic de l'effroi
+700099001	Conquérir le Croiseur Céleste Ardent
+700101001	Survivre aux étages inférieurs du Pic de l'effroi
+700102001	Survivre aux étages médians du Pic de l'effroi
+700103001	Compléter le Rêve de Rukmia
+700104001	Compléter le Rêve de Rukmia (Difficile)
+700105001	Complete Crimson Killing Grounds
+700106001	Complete Killing Grounds
 700108001	Laboratoire de Verno
 700109001	Infiltration du Laboratoire de Verno (difficile)
 700110001	À l'assaut du Temple sanglant de Dkurion
-700111001	Conquête du Temple sanglant de Dkurion (difficile)
+700112001	Conquérir l'Espace-temps de Valona (Normal)
 700113001	À l'assaut du Donjon des épreuves : Repaire d'Akasha !
 700114001	À l'assaut du Donjon des épreuves : Labyrinthe d'or !
 700119001	À l'assaut de la Forteresse de Lilitas (facile) !
-700127001	Conquérez la Porte souterraine de Velika
-700130001	À la reconquête du Sanctuaire effondré !
+700123001	Infiltrez-vous dans les Ruines de Lachelitas (facile) !
+700124001	Conquête des Ruines de Lachelitas (difficile) !
+700127001	Protégez la Porte souterraine de Velika !
+700129001	À la reconquête du Sanctuaire de Velik !
+700130001	À la reconquête du Ruines du Sanctuaire (Difficile) !
 700134001	Conquête de l'Île délaissée (difficile)
-700135001	Conquête de la Station de recherche de Syruk
+700135001	À l'assaut de la Station de recherche de Syruk !
+700136001	Complete the Thaumetal Refinery (Hard)
 700138001	Conquête de la Gorge vorace
+700138001	Conquérir la Gorge vorace
+700138001	Complete Ravenous Gorge
+700140001	Conquête du Hangar du RK-9
 700141001	Conquête du Hangar du RK-9 (difficile)
+700142001	Infiltration du Camp des révolutionnaires
 700144001	Conquête de l'Abîme d'Antaros
 700145001	Conquête de l'Abîme d'Antaros (difficile)
 700148001	Infiltration du Hall souterrain de Lian
-700149001	Conquérez le Hall souterrain de Lian (difficile)
+700149001	Infiltration du Hall souterrain de Lian (difficile)
 700150001	Dompter la rage de Bahaar
 700151001	Venez à bout du Donjon des épreuves : Forteresse de Lilitas
 700153001	Conquête de l'Abîme d'Antaros (difficile, 7 personnes)
-700157001	Conquérez la Zone secrète de la Forteresse de Berak
-700160001	[Combattant immortel] Conquête de l'Arène du courroux
+700155001	Conquête du Nid de Parquina (facile)
+700156001	Conquête du Nid de Parquina (difficile)
+700157001	Conquête de la Forteresse de Berak
+700158001	Conquête du Repaire de Kelsaik
+700159001	Repaire de Kelsaik (difficile)
+700160001	Défi de l'Arène du courroux (Immortalis)
 700161001	Conquête de la Résidence des commandants
+700162001	Conquête de la Résidence des commandants (difficile)
 700163001	Conquête de la Gorge de Kezzel
+700164001	Conquête de la Résidence du légat [sam/dim]
+700165001	Conquête du Hangar du RK-9 (difficile)
+700166001	[Aeternia] Arène du courroux
+700167001	[Immortalis] Arène du courroux
 700168001	Conquête du Croiseur céleste (difficile)
-700169001	Conquête du Rêve paralytique de Rukmia
-700171001	Donjon des épreuves : Rêve paralytique de Rukmia
-700174001	Conquête de la Forteresse maudite de Ténébris
-700175001	Attaquez le « Donjon des épreuves : Site d'exécution » !
-700176001	Donjon des épreuves : assaut sur la Forteresse de Ténébris
-700177001	Conquérez la Forteresse de Ténébris assaillie
-700178001	Conquérez le Laboratoire de fusion
-700179001	Conquérez le Laboratoire de fusion
-700180001	Donjon des épreuves, laboratoire de fusion
-700181001	Conquête du Site de test de Desolarus
-700187001	Conquête du Hall de Shandra Manaya (difficile)
-700188001	Conquête du Trône glacial du chaos
-700189001	Conquête du Trône glacial
+700183001	Fabrique Demokron complète (Difficile)
+700184001	Complete Manglemire
+700185001	Complete Channelworks
+700186001	Complete Kalivan's Dreadnaught
+700187001	Complete Kezzel's Gorge
+700188001	Conquérir le Temple sanglant de Dkurion (Difficile)
+700189001	Conquérir le Temple sanglant de Dkurion (Normal)
+700190001	Conquérir la Forteresse de Ténébris (Normal)
+700191001	Conquérir la Forteresse de Ténébris (Difficile)
+700192001	Conquérir le Sanctuaire de Velik (Normal)
+700193001	Conquérir le Sanctuaire de Velik (Difficile)
+700194001	Conquérir la Porte souterraine de Velika (Difficile)
+700195001	Conquérir l'Abîme d'Antaros (Normal)
+700196001	Conquérir le Camp des révolutionnaires (Normal)
+700197001	Conquérir le Camp des révolutionnaires (Difficile)
+700198001	Conquer the Grotto of Lost Souls
+700199001	Conquer the Demon's Wheel
 800001001	À l'assaut du Bastion de Lok !
 800002001	À l'assaut du Manoir sinistre !
 800003001	À l'assaut de l'Ascension de Saravash !
@@ -2678,12 +2706,16 @@
 810142001	Conquête du quartier général des devans
 810143001	Éliminez les Descendants de Lok
 810144001	Éliminez les ghilliedhus moussus
-970010001	[Équipement homogène] Remportez une victoire dans le Territoire côtier !
+820001001	[Daily Battle Pass Novice]
+820002001	[Daily Battle Pass Expert]
+820003001	[Battle Pass Quotidien JcJ]
+970010001	[Équipement individuel] Remportez une victoire dans le Territoire côtier.
 970011001	Conquête du Berceau des Kumas
 970012001	Combattez sur le Champ de neige d'Hivera !
-970110001	[Équipement homogène] Remportez une victoire dans le Territoire côtier !
+970110001	[Engrenage Égalisé] Remportez une victoire dans le Territoire côtier.
 970111001	Conquête du Berceau des Kumas
 970112001	Combattez sur le Champ de neige d'Hivera !
+970113001	[Équipement homogène] Remportez la victoire dans Blitz Barrage.
 980051001	Faites tonner les canons !
 980052001	Faites tonner les canons !
 980053001	Faites tonner les canons !
@@ -2713,6 +2745,10 @@
 983304001	Accomplissez la mission de gardien ! C
 983402001	Accomplissez la mission aérienne de gardien !
 983501001	La pêche est capitale !
+998841001	[Équipement Personnel] Triomphez dans le Combat Sans Fin de Kaia (Equipe).
+998842001	[Équipement Personnel] Triomphez dans le Combat Sans Fin de Kaia (Solo).
+998941001	[Équipement Personnel] Triomphez dans le Combat Sans Fin de Kaia (Equipe).
+998942001	[Équipement Personnel] Triomphez dans le Combat Sans Fin de Kaia (Solo).
 999601001	Éliminez un Basilic brutal (faible) !
 999602001	Éliminez un Orisk brutal (faible) !
 999603001	Éliminez une Arachnaea brutale (faible) !
@@ -2747,16 +2783,6 @@
 999813001	Mort dans la vallée
 999814001	Querelle territoriale
 999815001	Des Parthes pour proie
-999816001	Cœur intrépide
-999818001	Purification parthe
-999819001	Chasse aux œufs
-999820001	Chasse à l'ours
-999821001	Monstres du lac
-999822001	Entraînement à l'exorcisme
-999823001	Contrôle d'identité
-999824001	Chaux devant
-999825001	Le feu à la source
-999826001	Imbroglio impérial
 999827001	Fragments d'os
 999828001	Couvrir les besoins
 999829001	Vilaines bébêtes
@@ -2781,13 +2807,15 @@
 999849001	Mort aux démokrons !
 999850001	L'heure de purification
 999851001	[Équipement homogène] Remportez une victoire dans le Fort des Corsaires.
+999852001	[Unified Gear] Win in Gridiron
+999853001	[Personal Equipment] Gain Victory in Fraywind Canyon.
 999853001	[Équipement individuel] Remportez une victoire dans la Gorge de Venteguerre
-999854001	[Équipement individuel] Remportez une victoire dans le Cercle céleste des champions
+999854001	[Équipement homogène] Remportez une victoire dans le Cercle céleste des Champions
 999855001	Terrain minet
 999856001	Huiles essentielles
 999857001	On n'arrête pas la progression
 999860001	Option : passé recomposé
-999861001	Conquête des Catacombes de Macellarius
+999861001	À l'attaque des Catacombes de Macelarrius !
 999864001	Bord du précipice
 999865001	Trophées de chasse
 999866001	Option : monnaie de singe
@@ -2814,6 +2842,7 @@
 999903001	Éliminez Meldita !
 999904001	Éliminez le gardien de la relique !
 999905001	Éliminez Shandra Manaya !
+999906001	Terminer le Plexus (Difficile)
 999908001	Tuez Shandra Manaya
 999909001	Postulez pour les Fantômes du passé !
 999911001	Que de bois !
@@ -2855,20 +2884,19 @@
 999949001	Mort aux démokrons !
 999950001	L'heure de purification
 999951001	[Équipement homogène] Remportez une victoire dans le Fort des Corsaires.
-999953001	[Équipement homogène] Remportez une victoire dans la Gorge de Venteguerre.
-999954001	[Équipement individuel] Remportez une victoire dans le Cercle céleste des champions
+999952001	[Unified Gear] Win in Gridiron
+999953001	[Équipement individuel] Remportez une victoire dans la Gorge de Venteguerre
+999954001	[Équipement homogène] Remportez une victoire dans le Cercle céleste des Champions
 999955001	Terrain minet
 999956001	Huiles essentielles
 999957001	On n'arrête pas la progression
-999958001	[Équipement individuel] Remportez une victoire dans le Cercle céleste des champions (Recherche solo)
-999959001	[Équipement individuel] Remportez une victoire dans le Cercle céleste des champions (Recherche solo)
+999958001	Triomphez des Officiers impériaux archidevans
+999959001	Qui ose toucher aux trésors nationaux ?
 999960001	Passé recomposé
-999961001	Conquête des Catacombes de Macellarius
+999961001	À l'attaque des Catacombes de Macelarrius !
 999964001	Bord du précipice
 999965001	Trophées de chasse
 999966001	Monnaie de singe
-999971001	Décrochez la victoire sur le Champ de bataille côtier.
-999972001	Décrochez la victoire sur le Champ de bataille côtier.
 999975001	Purge guwangi
 999976001	Châtier les Parthes
 999977001	L'étoffe des officiers

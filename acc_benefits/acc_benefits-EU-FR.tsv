@@ -9,11 +9,13 @@
 334	Fondateur
 335	Console Elite
 350	Profit du serveur
-433	Club TERA
+433	Club Dream
 434	Vétéran
 435	Avantage du pack I
 436	Avantage du pack II
 437	Avantage du pack III
+444	Menma's Team
+445	Content Creator
 500	VIP
 520	VIP2
 533	VIP
@@ -31,13 +33,15 @@
 805	User ELITE (Intermediate)
 806	User ELITE (Major)
 807	User ELITE (VIP)
-1000	Cybercafé TERA
+900	Balder's Blessing
+1000	TERA PC cafe
+1100	Titre Personnel
 10031	Récompense : vous recevez 2 réponses de Valkyon lorsque la recherche d'instances est utilisée.
 10032	Diminue le temps de recharge des instances de moitié et permet d'y avoir accès deux fois plus souvent.
-10033	Acompte : 2 %<BR>Frais de courtage : 5 %<BR>Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Récompense : réduction du temps de rechargement des instances, augmentation du nombre d'accès<BR>Augmentation de la quantité maximale et de la vitesse de rechargement pour l'or du vécu<BR>Système de novice d'instance activé<BR>Potion de chasse et de notoriété activées<BR>Accès premium possible
+10033	Acompte : exempté<BR>Frais de courtage : 5 %<BR>Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Récompense : réduction du temps de rechargement des instances, augmentation du nombre d'accès<BR>Augmentation de la quantité maximale et de la vitesse de rechargement pour l'or du vécu<BR>Système de novice d'instance activé<BR>Potion de chasse et de notoriété activées<BR>Accès premium possible
 10034	Récompense : vous recevez une réponse de Valkyon lorsque la recherche d'instances inter-serveurs est utilisée.<BR>Bonus du débutant actif
 10035	Les PE-PEX augmentent de 30 %.
-10077	Obtention : 250 Tikat<BR>Potion des PEX rapides (2 heures) : disponible<BR>Acompte : 2 %<BR>Frais de courtage :10 %<BR>Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Récompense : réduction du temps de rechargement des instances, augmentation du nombre d'accès<BR>Augmentation de la quantité maximale et de la vitesse de rechargement pour l'or du vécu<BR>Système de novice d'instance activé<BR>Potion de chasse et potion de chasse PE activées<BR>PEX d'équipement accrus<BR>Potion supérieure de notoriété activé<BR>Accès premium possible<BR>Effet : protection de cristal complète<BR>Effet : solutionneur 50<BR>Boutique de costume du forfait mensuel possible
+10077	Obtention : 250 Pièce d'Astrum<BR>Potion de chasse (1 heure) : disponible<BR>Acompte : 2 %<BR>Frais de courtage :10 %<BR>Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Récompense : réduction du temps de rechargement des instances, augmentation du nombre d'accès<BR>Augmentation de la quantité maximale et de la vitesse de rechargement pour l'or du vécu<BR>Système de novice d'instance activé<BR>Potion de chasse et potion de chasse PE activées<BR>PEX d'équipement accrus<BR>Accès premium possible
 10103	Infobulle d'utilisateur existant (Japon)
 10333	Récompenses de compte mensuelles :<BR>Potion puissante de chasse permanente.<BR>Potion puissante de notoriété permanente.<BR>Potion puissante de l'aventurier permanente.<BR>Guide du voyageur.<BR>Parchemins d'assurance du voyageur.<BR>Deux réponses de Valkyon issues de la recherche d'instances.<BR>Deux fois plus de quêtes journalières.<BR>Fréquence d'accès aux instances doublée.<BR>Jusqu'à 50 objets actifs dans l'hôtel des ventes.<BR>exempté d'acompte à la salle de ventes<BR>Frais de courtage de seulement 10%<BR>Modèle de monture (change à intervalles réguliers).<BR>Des bonus et boîtes à malice quotidiens.
 10334	Récompenses de compte permanentes : <BR>8 emplacements de personnage gratuits par serveur.<BR>4 onglets de stockage disponibles par serveur.<BR>Terminus, le destrier argon hybride.<BR>Titre "Le fondateur".<BR>Jusqu'à 30 objets actifs à la salle des ventes
@@ -46,11 +50,13 @@
 10435	Récompenses de compte permanentes : <BR>8 personnages par serveur<BR>4 onglets de stockage par serveur
 10436	Récompenses de compte permanentes : <BR>10 personnages par serveur<BR>5 onglets de stockage par serveur
 10437	Récompenses de compte permanentes : <BR>12 personnages par serveur<BR>6 onglets de stockage par serveur
+10444	Active Bonuses During Membership:<BR>Instance cooldowns halved and entries doubled<BR>Increased maximum and faster regeneration of Adventure Coins<BR>Special mount and pet<BR>Free teleportation to cities, towns and villages plus your own teleport locations<BR>Various boosts such as 100% increased character experience<BR>NPC summoning scrolls and keys<BR>Up to 50 active offers on the brokerage<BR>Reduced earnest money and instant buy fees from the brokerage<BR>Permanent crystalbind<BR>Additional daily deliveries to fishing NPCs<BR>Twice as many daily quests<BR>+50% skill advancement XP<BR>+100% EP XP<BR>... and much more!
 10600	L'utilisation du compte est restreinte pour certaines fonctions, afin de prévenir d'éventuels abus. <br>Une vérification permet de lever la restriction.
 10601	Récompenses de compte permanentes : <BR>8 personnages disponibles par serveur.<BR>4 onglets de stockage disponibles par serveur.<BR>Titre "Vétéran de la Fédération Valkyon".<BR>Jusqu'à 30 objets actifs à la salle des ventes.
 10602	Une restriction du commerce a été introduite pour prévenir les utilisations abusives de compte. Vous ne pouvez pas faire l'échange d'or ou d'objets.<br>La restriction est automatiquement levée au bout de 168 heures. Même en cas d'authentification, la restriction ne peut être levée qu'après 168 heures.
 10691	Récompenses de compte mensuelles :<BR>Deux réponses de Valkyon lorsque vous utilisez la recherche d'instance.<BR>Deux fois plus de quêtes journalières disponibles.<BR>Un accès aux instances doublé.<BR>Une monture exclusive (change régulièrement).<BR>Jusqu'à 50 offres actives à la salle des ventes.<BR>Exemption d'acompte à la salle de ventes.<BR>Frais de courtage de seulement 10 %.<BR>Guide du voyageur : villages<BR>Dix clés de chance.<BR>Guide du voyageur : raccourcis personnels.<BR>Des bonus réinitialisés chaque jour.
-11000	Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Les chances de succès de fabrication critique augmentent de 10 %<BR>Inventaire de cybercafé : disponible<BR>Obtenir 100 % de PEX en plus<BR>Les PE-PEX augmentent de 10 %<BR>Réduction du temps de fabrication
+10900	Balder's Blessing Package Benefits:<BR>300 MTC upon subscription activation.<BR>Redeem 50 MTC daily.<BR>Exclusive chat icon next to your name.
+11000	Brokerage Registration Number: 50<BR>Broker's price negotiation: available<BR>Increases critical success chance by 10% on crafting items<BR>PC cafe inventory: available<BR>Acquire 100% additional experience<BR>Gain 100% additional hunting XP rewards<BR>Gain 10% additional EP XP rewards<BR>Significantly decreases crafting time.
 100033	Avantage du paquet
 100034	Avantage du paquet
 100103	Avantages d'utilisateur existant (Japon)
@@ -62,11 +68,13 @@
 100435	Avantage du pack
 100436	Avantage du pack
 100437	Avantage du pack
+100444	Avantage du pack
+100445	Package Benefit
 100600	Poste, hôtel des ventes, échange entre utilisateurs, match à mort et entrepôt de guilde
 100601	Avantage du paquet
 100602	Poste, hôtel des ventes, échange entre utilisateurs, match à mort et entrepôt de guilde
 100691	Mode sans échec
-101000	Avantage du paquet
+101000	Package Benefit
 1000600	La date de la dernière connexion étant assez lointaine, l'utilisation du compte est restreinte pour les fonctions suivantes, afin de prévenir d'éventuels abus.
 1000601	Pour éviter les abus, ce compte ne peut pas échanger d'or ou d'objets.
 1000602	Afin d'éviter les abus, ce compte ne peut pas échanger d'or ou d'objets.

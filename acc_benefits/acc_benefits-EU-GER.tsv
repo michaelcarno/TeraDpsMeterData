@@ -9,11 +9,13 @@
 334	Gründer{@g:/in}
 335	Console Elite
 350	Servervorteil
-433	TERA Club
+433	Dream Club
 434	Veteran{@g:/in}
 435	Paketvorteil I
 436	Paketvorteil II
 437	Paketvorteil III
+444	Menma's Team
+445	Content Creator
 500	VIP
 520	VIP2
 533	VIP
@@ -31,13 +33,15 @@
 805	User ELITE (Intermediate)
 806	User ELITE (Major)
 807	User ELITE (VIP)
-1000	TERA-Internetcafé
+900	Balder's Blessing
+1000	TERA PC cafe
+1100	Persönlicher Titel
 10031	Belohnung: 2x Valkyons Belohnung, wenn Ihr die Instanzgruppensuche verwendet.
 10032	Abklingzeit der Instanz halbiert und Zutritte verdoppelt.
-10033	Kommission: 2%<BR>Handelsgebühr: 5%<BR>Handelsregistrierungsanzahl: 50<BR>Preisverhandlung des Handelsagenten: verfügbar<BR>Belohnung: verkürzte Instanz-Abklingzeit, erhöhte Eintrittsanzahl<BR>Erhöhte max. Erlebnisgold-Menge und Aufladegeschwindigkeit<BR>Instanzneulingssystem aktiv<BR>Trank der Jagd und Tee mit Ruhm aktiv<BR>Premium-Eintritt möglich
+10033	Kommission: keine<BR>Handelsgebühr: 5%<BR>Handelsregistrierungsanzahl: 50<BR>Preisverhandlung des Handelsagenten: verfügbar<BR>Belohnung: verkürzte Instanz-Abklingzeit, erhöhte Eintrittsanzahl<BR>Erhöhte max. Erlebnisgold-Menge und Aufladegeschwindigkeit<BR>Instanzneulingssystem aktiv<BR>Trank der Jagd und Tee mit Ruhm aktiv<BR>Premium-Eintritt möglich
 10034	Belohnung: Valkyons Belohnung, wenn Ihr die Instanzgruppensuche zwischen Servern verwendet.<BR>Instanzneulingsystem aktiv.
 10035	Erhöht die EL-EP um 30%.
-10077	Erhalt: 250 Tikat<BR>Trank der schnellen EP (2 Std.): verfügbar<BR>Kommission: 2%<BR>Handelsgebühr: 10%<BR>Handelsregistrierungsanzahl: 50<BR>Preisverhandlung des Handelsagenten: verfügbar<BR>Belohnung: verkürzte Instanz-Abklingzeit, erhöhte Eintrittsanzahl<BR>Erhöhte max. Erlebnisgold-Menge und Aufladegeschwindigkeit<BR>Instanzneulingssystem aktiv<BR>Trank der Jagd und EL-Trank der Jagd aktiv<BR>Erhöhtes Ausrüstungsgeschick<BR>Starker Tee mit Ruhm aktiv<BR>Premium-Eintritt möglich<BR>Effekt: Kompletter Kristallschutz<BR>Effekt: Problemlöser 50<BR>Monatspass-Kostümshop möglich
+10077	Erhalt: 250 Tikat<BR>Trank der Jagd (1 Std.): verfügbar<BR>Kommission: 2%<BR>Handelsgebühr: 10%<BR>Handelsregistrierungsanzahl: 50<BR>Preisverhandlung des Handelsagenten: verfügbar<BR>Belohnung: verkürzte Instanz-Abklingzeit, erhöhte Eintrittsanzahl<BR>Erhöhte max. Erlebnisgold-Menge und Aufladegeschwindigkeit<BR>Instanzneulingssystem aktiv<BR>Trank der Jagd und EL-Trank der Jagd aktiv<BR>Erhöhtes Ausrüstungsgeschick<BR>Premium-Eintritt möglich
 10103	Wiederkehrender Spieler (Japan) Tooltip
 10333	Monatliche Belohnungen auf dem Konto:<BR>Permanenter Mächtiger Trank der Jagd.<BR>Permanenter Mächtiger Tee mit Ruhm.<BR>Permanenter Mächtiger Abenteurertrank.<BR>Handbuch des Reisenden: Dorfreisen.<BR>2x Valkyons Belohnung, wenn Ihr die Instanzgruppensuche verwendet.<BR>Doppelte Anzahl der verfügbaren Tagesquests.<BR>Doppelte Anzahl der Instanzzutritte.<BR>Bis zu 50 aktive Angebote bei der Handelsagentur.<BR>Befreiung von Kommissionszahlungen bei der Handelsagentur.<BR>Handelsgebühr von nur 10%.<BR>Probereittier (ändert sich regelmäßig).<BR>Täglich neue Stärkungen und Beutekisten.
 10334	Dauerhafte Belohnungen auf dem Account:<BR>8 freie Charakterplätze pro Server.<BR>4 Bankfächer pro Server.<BR>Terminus, die argonische Schlachtrosskreuzung.<BR>Titel "Gründer/in".<BR>Bis zu 30 aktive Angebote bei der Handelsagentur.
@@ -46,11 +50,13 @@
 10435	Dauerhafte Belohnungen auf dem Konto:<BR>8 Charaktere pro Server<BR>4 Bankreiter pro Server
 10436	Dauerhafte Belohnungen auf dem Konto:<BR>10 Charaktere pro Server<BR>5 Bankreiter pro Server
 10437	Dauerhafte Belohnungen auf dem Konto:<BR>12 Charaktere pro Server<BR>6 Bankreiter pro Server
+10444	Active Bonuses During Membership:<BR>Instance cooldowns halved and entries doubled<BR>Increased maximum and faster regeneration of Adventure Coins<BR>Special mount and pet<BR>Free teleportation to cities, towns and villages plus your own teleport locations<BR>Various boosts such as 100% increased character experience<BR>NPC summoning scrolls and keys<BR>Up to 50 active offers on the brokerage<BR>Reduced earnest money and instant buy fees from the brokerage<BR>Permanent crystalbind<BR>Additional daily deliveries to fishing NPCs<BR>Twice as many daily quests<BR>+50% skill advancement XP<BR>+100% EP XP<BR>... and much more!
 10600	Dieser Account wurde in einigen Funktionen beschränkt, um einem Account-Missbrauch vorzubeugen. <br>Durch Verifizierung kann die Beschränkung entfernt werden.
 10601	Dauerhafte Belohnungen auf dem Konto:<BR>8 Charaktere pro Server.<BR>4 Bankreiter pro Server.<BR>T<BR>Titel "Veteran der Valkyon-Föderation".<BR>Bis zu 30 aktive Angebote bei der Handelsagentur.
 10602	Um einem Account-Missbrauch vorzubeugen, wurde eine Handelsbeschränkung eingeführt. Ihr könnt nicht mit Gold oder Gegenständen handeln.<br>Nach 168 Stunden wird die Einschränkung automatisch entfernt. Auch durch eine Authentifizierung kann die Beschränkung erst nach 168 Stunden aufgehoben werden.
 10691	Monatliche Belohnungen auf dem Konto:<BR>2x Valkyons Belohnung, wenn Ihr die Instanzgruppensuche verwendet.<BR>Doppelte Anzahl der verfügbaren Tagesquests.<BR>Doppelte Anzahl der Instanzzutritte.<BR>Probereittier (ändert sich regelmäßig).<BR>Bis zu 50 aktive Angebote bei der Handelsagentur.<BR>Befreiung von Kommissionszahlungen bei der Handelsagentur.<BR>Handelsgebühr von nur 10%.<BR><BR>Handbuch des Reisenden<BR>Zehn Schlüssel des Verzauberers.<BR>Schrfitrollen der Reiseversicherung.<BR>Tägliche Tränke.
-11000	Handelsregistrierungsanzahl: 50<BR>Preisverhandlung des Handelsagenten: verfügbar<BR>Erhöht die Chance auf einen kritischen Erfolg in der Herstellung um 10%<BR>Internetcafé-Inventar: verfügbar<BR>100% zusätzliche Erfahrung erhalten<BR>EL-EP um 10% erhöht<BR>Herstellungszeit wird verringert
+10900	Balder's Blessing Package Benefits:<BR>300 MTC upon subscription activation.<BR>Redeem 50 MTC daily.<BR>Exclusive chat icon next to your name.
+11000	Brokerage Registration Number: 50<BR>Broker's price negotiation: available<BR>Increases critical success chance by 10% on crafting items<BR>PC cafe inventory: available<BR>Acquire 100% additional experience<BR>Gain 100% additional hunting XP rewards<BR>Gain 10% additional EP XP rewards<BR>Significantly decreases crafting time.
 100033	Paketvorteil
 100034	Paketvorteil
 100103	Wiederkehrender Spieler (Japan) Vorteil
@@ -62,17 +68,19 @@
 100435	Paketvorteil
 100436	Paketvorteil
 100437	Paketvorteil
+100444	Paketvorteil
+100445	Package Benefit
 100600	Post, Handelsagentur, Handel zwischen Usern, Deathmatch und Gildenlager
 100601	Paketvorteil
 100602	Post, Handelsagentur, Handel zwischen Usern, Deathmatch und Gildenbank
 100691	Abgesicherter Modus
-101000	Paketvorteil
+101000	Package Benefit
 1000600	Da der letzte Login längere Zeit her ist, wurde dieser Account in einigen Funktionen beschränkt, um einem Account-Missbrauch vorzubeugen.
 1000601	Um einem Missbrauch vorzubeugen, kann dieser Account nicht mit Gold oder Gegenständen handeln.
 1000602	Um einem Missbrauch vorzubeugen, kann dieser Account nicht mit Gold oder Gegenständen handeln.
 77777777	<font color = '#00A0FF'>{EventName}</font>
 88888888	Event (Gesamtzeit)
 1077777777	<font color = '#ABF200'>{EventType}</font> <font color = '#FFBB00'>{EventValue}</font>{RegionList}
-1088888888	Event (Gesamtzeit)
-1188888888	Erhalten
-1288888888	Bestätigen
+1088888888	The Play Time Event rewards players for accumulating play time each day and over the course of the event.
+1188888888	Claim
+1288888888	Confirm
